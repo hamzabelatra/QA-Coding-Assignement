@@ -1,0 +1,16 @@
+2023-02-22 17:32:21,814 [main] INFO BaseClass - Test1
+2023-02-22 17:32:22,257 [main] INFO BaseClass - Test3
+2023-02-22 17:37:08,523 [main] INFO BaseClass - Test1
+2023-02-22 17:37:08,548 [main] INFO BaseClass - Test3
+2023-02-22 17:40:46,031 [main] INFO BaseClass - if the element is not found it will throw an exception element not found
+2023-02-22 17:41:25,202 [main] INFO BaseClass - Test1
+2023-02-22 17:41:25,202 [main] INFO BaseClass - Test3
+2023-02-22 17:46:43,506 [main] INFO BaseClass - if the element is not found it will throw an exception element not found
+2023-02-22 17:46:59,564 [main] INFO BaseClass - Test1
+2023-02-22 17:46:59,565 [main] INFO BaseClass - Test3
+2023-02-22 17:48:08,474 [main] INFO BaseClass - if the element is not found it will throw an exception element not found
+2023-02-22 17:48:27,566 [main] INFO BaseClass - Test1
+2023-02-22 17:48:27,567 [main] INFO BaseClass - Test3
+2023-02-22 18:13:07,790 [main] INFO BaseClass - if the element is not found it will throw an exception element not found
+2023-02-22 18:13:26,978 [main] INFO BaseClass - Test1
+2023-02-22 18:13:26,979 [main] INFO BaseClass - Test3
